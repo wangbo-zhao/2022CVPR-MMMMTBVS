@@ -7,7 +7,16 @@ This is the code for CVPR2022 paper "Modeling Motion with Multi-Modal Features f
 ```
 your dataset dir/
 └── A2D/ 
+    ├── allframes/  
+    ├── allframes_flow/
+    ├── a2d_txt
+        └──train.txt
+        └──test.txt
+    
+
 └── J-HMDB/ 
+
+
 ```
 
 

@@ -2,6 +2,8 @@
 This is the code for CVPR2022 paper "Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation"
 
 🔥🔥🔥Coming Soon🔥🔥🔥
+## Usage
+1. Please first use [RAFT]{https://github.com/princeton-vl/RAFT} to generate the opticla flow map for each frame.
 
 ## Train
 

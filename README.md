@@ -3,7 +3,8 @@ This is the code for CVPR2022 paper "Modeling Motion with Multi-Modal Features f
 
 🔥🔥🔥Coming Soon🔥🔥🔥
 ## Usage
-1. Please first use [RAFT](https://github.com/princeton-vl/RAFT) to generate the opticla flow map for each frame.
+1. Download [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) and [JHMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/).
+2. Please use [RAFT](https://github.com/princeton-vl/RAFT) to generate the opticla flow map for each frame.
 
 ## Train
 

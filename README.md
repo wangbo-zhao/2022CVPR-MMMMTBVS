@@ -28,7 +28,7 @@ your dataset dir/
 "Annotations_visualize" contains the GT masks for each target object. We have upload them to [BaiduPan](https://pan.baidu.com/s/1pvQP75bHjYfRYZFoCVqpkQ?pwd=lo50)(lo50) for convenience.
 
 ## Train
-Comming Soon
+
 
 ## Inference
 Comming Soon

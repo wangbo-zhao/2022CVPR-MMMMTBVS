@@ -31,7 +31,7 @@ your dataset dir/
 
 
 ## Inference
-Comming Soon
+
  
 ## Citation
 Please consider to cite our work in your publications if you are interest in our research:

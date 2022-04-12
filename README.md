@@ -34,7 +34,12 @@ Comming Soon
 Comming Soon
  
 ## Citation
-Please consider citing our work in your publications if you are interest in our research:
+Please consider to cite our work in your publications if you are interest in our research:
 ```
-Comming Soon
+@article{zhao2022modeling,
+  title={Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation},
+  author={Zhao, Wangbo and Wang, Kai and Chu, Xiangxiang and Xue, Fuzhao and Wang, Xinchao and You, Yang},
+  journal={arXiv preprint arXiv:2204.02547},
+  year={2022}
+}
 ```

@@ -32,7 +32,7 @@ your dataset dir/
 ```
 "Annotations_visualize" contains the GT masks for each target object. We have upload them to [BaiduPan](https://pan.baidu.com/s/1pvQP75bHjYfRYZFoCVqpkQ?pwd=lo50)(lo50) for convenience.
 
-4. Download pretrained ResNet and [BETR](https://huggingface.co/bert-base-uncased)
+4. Download pretrained ResNet-101 and [BETR](https://huggingface.co/bert-base-uncased).
 
 ## Train
 

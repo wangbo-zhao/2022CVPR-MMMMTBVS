@@ -1,6 +1,10 @@
 # 2022CVPR-Modeling-Motion-with-Multi-Modal-Features-for-Text-Based-Video-Segmentation
 This is the code for CVPR2022 paper ["Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation"](https://arxiv.org/pdf/2204.02547v1.pdf)
 
+## Framework
+![image](framework.png)
+
+
 🔥🔥🔥Coming Soon🔥🔥🔥
 ## Usage
 1. Download [A2D-Sentences](https://kgavrilyuk.github.io/publication/actor_action/) and [JHMDB-Sentences](https://kgavrilyuk.github.io/publication/actor_action/).

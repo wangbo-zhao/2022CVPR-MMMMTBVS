@@ -2,7 +2,6 @@
 This is the code for CVPR2022 paper ["Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation"](https://arxiv.org/pdf/2204.02547v1.pdf)
 
 
-🔥🔥🔥Coming Soon🔥🔥🔥
 
 ## Framework
 ![image](framework.png)

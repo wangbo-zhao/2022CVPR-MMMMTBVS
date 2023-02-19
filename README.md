@@ -35,7 +35,7 @@ your dataset dir/
 "Annotations_visualize" contains the GT masks for each target object. We have upload them to [BaiduPan](https://pan.baidu.com/s/1pvQP75bHjYfRYZFoCVqpkQ?pwd=lo50)(lo50) for convenience.
 
 4. Download pretrained ResNet-101 and [BETR](https://huggingface.co/bert-base-uncased).
-5. We provide the pretrained checkpoint [B+M+T+L+A]()()
+5. We provide the pretrained checkpoint [B+M+T+L+A](https://pan.baidu.com/s/1EHi3rrnmSg8LzTWUtZ2cEw)(u5hx)
  
 ## Citation
 Please consider to cite our work in your publications if you are interest in our research:

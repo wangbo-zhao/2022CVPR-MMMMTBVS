@@ -2,7 +2,7 @@
 🔥🔥🔥Update 2023.02.19🔥🔥🔥
 
 # 2022CVPR-Modeling-Motion-with-Multi-Modal-Features-for-Text-Based-Video-Segmentation
-This is the code for CVPR2022 paper ["Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation"](https://arxiv.org/pdf/2204.02547v1.pdf)
+This is the code for CVPR2022 paper ["Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation"](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Modeling_Motion_With_Multi-Modal_Features_for_Text-Based_Video_Segmentation_CVPR_2022_paper.pdf)
 
 
 
@@ -40,10 +40,11 @@ your dataset dir/
 ## Citation
 Please consider to cite our work in your publications if you are interest in our research:
 ```
-@article{zhao2022modeling,
+@inproceedings{zhao2022modeling,
   title={Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation},
   author={Zhao, Wangbo and Wang, Kai and Chu, Xiangxiang and Xue, Fuzhao and Wang, Xinchao and You, Yang},
-  journal={arXiv preprint arXiv:2204.02547},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11737--11746},
   year={2022}
 }
 ```
